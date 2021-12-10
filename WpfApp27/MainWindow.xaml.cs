@@ -21,6 +21,7 @@ namespace WpfApp27
     public partial class MainWindow : Window
     {
         string test = "salam";
+        int test2=110;
         public MainWindow()
         {
             InitializeComponent();
